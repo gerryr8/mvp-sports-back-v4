@@ -1,0 +1,39 @@
+{
+  "product_number":"2",
+  "name":"Nike Training",
+  "price":"1399",
+  "stock":"45",
+  "description":"Tenis de entrenamiento para hombre",
+  "thumbnail":"a",
+  "image":"a",
+  "weight": 700,
+  "category":"Calzado"
+},
+{
+  "name":"Nike AAAA",
+  "price":"1399",
+  "stock":"45",
+  "description":"Tenis de entrenamiento para hombre",
+  "thumbnail":"a",
+  "image":"a",
+  "weight":700,
+  "hijos":[
+    {
+      "id_category":"5",
+      "category_name":"Camisas"
+    }
+  ]
+}
+{
+"id":"1",
+"id_category":"5",
+"category":"Tenis",
+"product_number":"8",
+"name":"Nike ALPHAMAX",
+"price":"1789",
+"stock":"24",
+"description":"descripcion",
+"thumbnail":"a",
+"image":"a",
+"weight":"2300"
+}
